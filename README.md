@@ -1,6 +1,6 @@
 
 <h4 align="center"> 
-	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
+	:construction: NextLevelWeek 1.0 🚀 :construction:
 </h4>
 <p align="center">
 
